@@ -1,2 +1,2 @@
 # 11 Лабораторная работа 
-Mindmap для сайта https://wink.ru/my
+Mindmap для сайта https://wink.ru/
